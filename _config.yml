@@ -3,6 +3,7 @@ description: Thoughts from a CS PhD --- research, sports, etc.
 author: Clement Fung
 location: Pittsburgh, PA
 avatar: /cold.jpg
+skin: sunset
 
 plugins:
   - jekyll-seo-tag
