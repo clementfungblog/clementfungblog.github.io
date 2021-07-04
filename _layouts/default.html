@@ -1,32 +1,30 @@
-<!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+<!doctype html>
+<html lang="en">
 
-  <head>
-    {% include head.html %}
-  </head>
+{%- include head.html -%}
 
-  <body>
-    <div class="site-container">
-      <header class="site-header">
-        {% include header.html %}
-      </header>
-      
-      <div class="site-body wrapper">
-        <aside class="site-sidebar" id="site-sidebar">
-          {% if page.toc %}
-            {% include sidebar-toc.html %}
-          {% else %}
-            {% include sidebar.html %}
-          {% endif %}
-        </aside>
-        <main class="site-main" id="site-main" aria-label="Content">
-          {{ content }}
-          <footer class="site-footer">
-            {% include footer.html %}
-          </footer>
-        </main>
-      </div>
+<body>
+
+    <div id="layout" class="pure-g">
+
+        {%- include sidebar.html -%}
+
+        <div class="content pure-u-1 pure-u-md-3-4">
+            <div class="md-display">
+                <h1>
+                    <a class="jekyll-header" href="/">{{site.title}}</a>
+                </h1>
+                {%- include links.html -%}
+                {%- include search.html -%}
+            </div>
+            <div>
+                {{ content }}
+                {%-include footer.html -%}
+
+            </div>
+        </div>
     </div>
-  </body>
+
+</body>
 
 </html>

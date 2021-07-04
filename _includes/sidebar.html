@@ -1,57 +1,24 @@
-{% if site.avatar -%}
-  <div class="sidebar-section">
-    {%- if site.avatar contains "://" -%}
-      {%- assign avatar = site.avatar -%}
-    {%- else -%}
-      {%- assign avatar = site.avatar | relative_url -%}
-    {%- endif -%}
-    <img src="{{ avatar }}" class="author-avatar u-photo align-center" alt="{{ site.author }}">
-  </div>
-{%- endif %}
+<aside class="sidebar pure-u-1 pure-u-md-1-4">
+    <div class="sidebar-info">
+        <a href="/">
+            <span hidden>{{site.title}}
+                Header Image</span>
+            <img class="brand-photo" src="{{{site.url}}/{{site.header_image}}" alt="Photo of {{site.author}}"/>
+        </a>
+        <h1 class="brand-title">
+            <a href="/">{{site.title}}</a>
+        </h1>
+        <h2 class="brand-tagline">{{site.description}}</h2>
 
-<div class="sidebar-section">
-  <ul class="contact-list">
-    {% if site.author -%}
-      <li>
-        <i class="sidebar-icon fas fa-at"></i>
-        <span class="contact-info p-name">{{ site.author | escape }}</span>
-      </li>
-    {%- endif %}
-    {% if site.webpage -%}
-      <li>
-        <i class="sidebar-icon fas fa-at"></i>
-        <span class="contact-info p-name">{{ site.webpage | escape }}</span>
-      </li>
-    {%- endif %}
-    {% if site.email -%}
-      <li>
-        <i class="sidebar-icon fas fa-envelope"></i>
-        <a class="contact-info u-email" href="{{ site.email }}">{{ site.email }}</a>
-      </li>
-    {%- endif %}
-    {% if site.location -%}
-      <li>
-        <i class="sidebar-icon fas fa-location-arrow"></i>
-        <a class="contact-info u-location" href="https://www.google.com/maps/search/{{ site.location }}">{{ site.location }}</a>
-      </li>
-    {%- endif %}
-  </ul>
-</div>
-
-<div class="sidebar-section feed-subscribe">
-  <a href="{{ 'feed.xml' | relative_url }}">
-    <i class="sidebar-icon fas fa-rss"></i><span>Subscribe</span>
-  </a>
-</div>
-
-{% if site.data.social -%}
-  <div class="sidebar-section">
-    <ul class="social-icons">
-      {% for social in site.data.social -%}
-        <li>
-          <a class="social-icon" href="{{ social.url }}"><i class="{{ social.icon | default: 'fas fa-link' }} fa-2x" title="{{ social.title }}"></i></a>
-        </li>
-      {%- endfor %}
-    </ul>
-  </div>
-{%- endif %}
+        <nav class="nav">
+            <ul class="nav-list">
+                <li class="nav-item">
+                    <a class="pure-button" href="{{site.url}}">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="pure-button" href="https://clementfung.me">Personal Page</a>
+                </li>
+            </ul>
+        </nav>
+    </div>
+</aside>
