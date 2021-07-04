@@ -15,7 +15,7 @@ I've started to notice patterns (more specifically, anti-patterns) that commonly
 We picked five such anti-patterns and I will summarize them (with links) below. 
 I hope you find them interesting!
 
-[The entire discussion series as a playlist can be found here.](https://www.youtube.com/playlist?list=PLRiOowAfZDgV107P6GlvvfxAaMRNsthKP)
+[The entire discussion series as a playlist can be found here.](https://www.youtube.com/playlist?list=PLRiOowAfZDgV107P6GlvvfxAaMRNsthKP){:target="_blank"}
 
 ## 1. Poor game categorization leading to mismatched expectations
 
@@ -28,9 +28,9 @@ Board games are so interactive and complex that its hard to categorize them with
 - This makes recommending new games to friends and deciding what to play difficult.
 - People relate differently to games based on their interaction style, their mechanics, their weight, their theme, etc. 
 
-[Episode 1 - Board games are poorly classified and this hurts outreach](http://www.youtube.com/watch?v=7hPPhfYz7Jk)
+[Episode 1 - Board games are poorly classified and this hurts outreach](http://www.youtube.com/watch?v=7hPPhfYz7Jk){:target="_blank"}
 
-[![Episode 1](/assets/photos/2021-06-27-tableflip/ep1.png)](http://www.youtube.com/watch?v=7hPPhfYz7Jk "Episode 1 - Board games are poorly classified and this hurts outreach")
+[![Episode 1](/assets/photos/2021-06-27-tableflip/ep1.png)](http://www.youtube.com/watch?v=7hPPhfYz7Jk "Episode 1 - Board games are poorly classified and this hurts outreach"){:target="_blank"}
 
 ## 2. Cooperative board games
 
@@ -43,9 +43,9 @@ This is especially troublesome when a skill/experience disparity exists, causing
 - A difficult tradeoff emerges for the alpha gamer: purposely play sub-optimally or be labelled as the jerk?
 - To prevent this, the best cooperative board games include asymmetric communication or information.
 
-[Episode 2 - Cooperative board game experiences are hard to do well](http://www.youtube.com/watch?v=hrLx7yLP19I)
+[Episode 2 - Cooperative board game experiences are hard to do well](http://www.youtube.com/watch?v=hrLx7yLP19I){:target="_blank"}
 
-[![Episode 2](/assets/photos/2021-06-27-tableflip/ep2.png)](http://www.youtube.com/watch?v=hrLx7yLP19I "Episode 2 - Cooperative board game experiences are hard to do well")
+[![Episode 2](/assets/photos/2021-06-27-tableflip/ep2.png)](http://www.youtube.com/watch?v=hrLx7yLP19I "Episode 2 - Cooperative board game experiences are hard to do well"){:target="_blank"}
 
 ## 3. Analysis paralysis and blame
 
@@ -56,9 +56,9 @@ For more complex board games, players may often take (what seems to be) excessiv
 - Game mechanics play a large role in AP. Some examples include: too much information on the board, volatile game states, and a high degree of importance per move.
 - It is in every game group's interest to mitigate AP; reducing the social pressure around AP is the best strategy.
 
-[Episode 3 - Analysis paralysis is not the player's fault](http://www.youtube.com/watch?v=K8-SFCla3yU)
+[Episode 3 - Analysis paralysis is not the player's fault](http://www.youtube.com/watch?v=K8-SFCla3yU){:target="_blank"}
 
-[![Episode 3](/assets/photos/2021-06-27-tableflip/ep3.png)](http://www.youtube.com/watch?v=K8-SFCla3yU "Episode 3 - Analysis paralysis is not the player's fault")
+[![Episode 3](/assets/photos/2021-06-27-tableflip/ep3.png)](http://www.youtube.com/watch?v=K8-SFCla3yU "Episode 3 - Analysis paralysis is not the player's fault"){:target="_blank"}
 
 ## 4. Negative reactions to "kingmaking" and collusion
 
@@ -69,9 +69,9 @@ If you've ever played the Settlers of Catan, you've probably seen this happen. A
 - Even in low conflict games, I think opportunities for lead changes are important to keep the game interesting.
 - Ultimately, the question comes down to the player's values when in a losing position. What is the value of a win when faced with other, more meta objectives?
 
-[Episode 4 - Kingmaking isn't really a problem](http://www.youtube.com/watch?v=h0lYrUKibog)
+[Episode 4 - Kingmaking isn't really a problem](http://www.youtube.com/watch?v=h0lYrUKibog){:target="_blank"}
 
-[![Episode 4](/assets/photos/2021-06-27-tableflip/ep4.png)](http://www.youtube.com/watch?v=h0lYrUKibog "Episode 4 - Kingmaking isn't really a problem")
+[![Episode 4](/assets/photos/2021-06-27-tableflip/ep4.png)](http://www.youtube.com/watch?v=h0lYrUKibog "Episode 4 - Kingmaking isn't really a problem"){:target="_blank"}
 
 ## 5. Failing to lean into the tabletop medium
 
@@ -82,6 +82,6 @@ Tabletop board games are constrained by a very obvious requirement: the game nee
 - Rule enforcement is a major difference. In the physical medium it is up to the players to enforce rules themselves, yet some game mechanics make rule enforcement more difficult.
 - Conveying information to and amongst players is more difficult in person. Board games don't benefit from interactive UIs or gamelogs, and game design should optimize for information signalling.
 
-[Episode 5 - Good game design is not necessarily good board game design](http://www.youtube.com/watch?v=V41gZgcE9BM)
+[Episode 5 - Good game design is not necessarily good board game design](http://www.youtube.com/watch?v=V41gZgcE9BM){:target="_blank"}
 
-[![Episode 5](/assets/photos/2021-06-27-tableflip/ep5.png)](http://www.youtube.com/watch?v=V41gZgcE9BM "Episode 5 - Good game design is not necessarily good board game design")
+[![Episode 5](/assets/photos/2021-06-27-tableflip/ep5.png)](http://www.youtube.com/watch?v=V41gZgcE9BM "Episode 5 - Good game design is not necessarily good board game design"){:target="_blank"}

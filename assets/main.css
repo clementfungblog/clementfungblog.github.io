@@ -197,6 +197,12 @@ footer .pure-menu-link:hover {
   padding: 2em 1em 0;
 }
 
+.page {
+  font-size: 18px;
+  text-align: justify;
+  line-height: 1.5;
+}
+
 .post,
 .post-entry {
   padding-bottom: 2em;
