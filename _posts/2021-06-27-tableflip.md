@@ -19,8 +19,7 @@ I hope you find them interesting!
 ## Poor game categorization leading to mismatched expectations
 
 Have you ever played a game, loved it, wanted to find other games similar to it, and struggled? Even after doing your research and reading reviews, I'd often buy a new game, go through a couple plays, and find that something feels "off": it didn't really capture the elements of the old game that I was looking for.
-
-Victor and I spent some time discussing how we categorize board games in our minds, suggest some alternative methods, but overall the process is a bit futile. Board games are so interactive and complex that its hard to categorize them without overgeneralizing. In my opinion this is a problem that board games suffer from, without a clear solution.
+Board games are so interactive and complex that its hard to categorize them without overgeneralizing. Unfortunately, this is a problem that harms board game discovery and understanding, without a clear solution.
 
 **Key Points**
 - We don't have a good vocabulary for describing and categorizing board games.
@@ -36,8 +35,6 @@ Victor and I spent some time discussing how we categorize board games in our min
 Cooperative board games sound nice: everybody plays together, everybody succeeds together, yay! 
 In practice, this can be much more painful as shared control and responsibility of the game cause friction.
 This is especially troublesome when a skill/experience disparity exists, causing what is known as the alpha gamer or the quarterbacking problem.
-
-Victor and I talk about our personal feelings towards cooperative games, how they have evolved, the types of people that tend to enjoy them, and what we think are holding them back.
 
 **Key Points**
 - The alpha gamer (aka quarterbacking) problem exists when one player dominates the cooperative game, essentially robbing their teammates of the experience.
@@ -78,7 +75,7 @@ Tabletop board games are constrained by a very obvious requirement: the game nee
 **Key Points**
 - Some games involve a high degree of overhead: shuffling cards, moving components around, etc. This is generally mentally uninteresting and doesn't add value to the experience.
 - Rule enforcement is a major difference. In the physical medium it is up to the players to enforce rules themselves, yet some game mechanics make rule enforcement more difficult.
-- Information signalling is more difficult in person. Board games don't benefit from interactive UIs or gamelogs, and game design should optimize for information signalling.
+- Conveying information to and amongst players is more difficult in person. Board games don't benefit from interactive UIs or gamelogs, and game design should optimize for information signalling.
 
 [Episode 5 - Good game design is not necessarily good board game design](http://www.youtube.com/watch?v=V41gZgcE9BM)
 [![Episode 5](/assets/photos/2021-06-27-tableflip/ep5.png)](http://www.youtube.com/watch?v=V41gZgcE9BM "Episode 5 - Good game design is not necessarily good board game design")
