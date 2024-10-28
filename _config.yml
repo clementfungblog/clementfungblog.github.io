@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Tenderness
+title: Clement's Webzone
 email: clementf@andrew.cmu.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Thoughts on CS PhD, research, etc, etc.
